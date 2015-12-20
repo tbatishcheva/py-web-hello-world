@@ -2,5 +2,5 @@ Python Web Helloworld with Flask
 ====================
 
 ```bash
-python
+python main.py
 ```
